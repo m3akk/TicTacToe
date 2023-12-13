@@ -4,5 +4,7 @@ This version of the game has two game options - one player and a game against th
 
 
 <p align="center">
-  <img src="https://github.com/m3akk/TicTacToe/assets/120716573/829feeea-d201-4142-87c2-a4fd3f9f144a" alt="Tic-Tac-Toe">
+  <img src="https://github.com/m3akk/TicTacToe/assets/120716573/6ecba7ae-9e16-4dbb-bf72-6e3720d6b6b7" alt="Tic-Tac-Toe">
 </p>
+
+
